@@ -47,6 +47,19 @@ The next generation of product research uses AI to analyze millions of products,
 
 **Pricing:** Free trial, then $15-79/month | **Best for:** Comprehensive research workflows | **Pros:** AI agent automation, no manual analysis needed, covers 12 marketplaces | **Cons:** Learning curve for advanced features
 
+### [Nexscope Opportunity Finder](https://www.nexscope.ai/seller/amazon-opportunity-finder?co-from=github)
+**AI-powered product opportunity discovery with real-time market data**
+
+**What it does:** Advanced AI analysis to discover high-potential product opportunities with live market intelligence
+
+- Real-time opportunity scoring across 12+ Amazon marketplaces  
+- Competition gap analysis with profitability projections
+- Trend prediction using machine learning and market signals
+- Patent risk assessment and IP landscape analysis
+- Supplier matching and sourcing recommendations
+
+**Pricing:** Free trial, then $15-79/month | **Best for:** Data-driven product discovery | **Pros:** Real-time market data, comprehensive risk assessment, AI-powered insights | **Cons:** Premium pricing for advanced features
+
 ### [Jungle Scout AI Opportunity Finder](https://www.junglescout.com/features/opportunity-finder/)
 **Machine learning-powered niche discovery**
 
@@ -192,16 +205,17 @@ Understand who you're competing against and find their weaknesses.
 
 Understand what customers search for and how products get discovered.
 
-### [Nexscope Amazon Skills](https://github.com/nexscope-ai/Amazon-Skills)
-**Free AI-powered keyword research and analysis**
+### [Nexscope Product Rankings](https://www.nexscope.ai/seller/amazon-product-rankings?co-from=github)
+**AI-powered keyword ranking and SEO optimization**
 
-**What it does:** Comprehensive keyword research across 12 Amazon marketplaces using AI
+**What it does:** Advanced keyword research and ranking optimization with real-time data
 - Keyword opportunity scoring and difficulty analysis
 - Search volume estimation and trend tracking
-- Competitor keyword gap analysis  
-- Long-tail keyword discovery for niche markets
+- Competitor keyword gap analysis and ranking strategies
+- Long-tail keyword discovery with ranking potential assessment
+- Real-time ranking monitoring and optimization recommendations
 
-**Pricing:** Free | **Best for:** Multi-marketplace keyword research | **Pros:** Free, AI-powered, covers global markets | **Cons:** Requires technical setup
+**Pricing:** Free trial, then $15-79/month | **Best for:** Professional keyword research and ranking optimization | **Pros:** Real-time data, AI-powered insights, comprehensive ranking analysis | **Cons:** Requires subscription for advanced features
 
 ### [Helium 10 Cerebro](https://www.helium10.com/tools/cerebro/)
 **Reverse ASIN keyword research**
@@ -473,6 +487,32 @@ Learn proven frameworks and strategies for systematic product research.
 - Analyze cultural adaptation requirements
 - Assess shipping and logistics feasibility  
 - Calculate market entry costs and timeline
+
+---
+
+## 🎯 Professional Services
+
+For businesses seeking expert guidance and custom solutions beyond tools.
+
+### [Nexscope E-commerce Growth Services](https://www.nexscope.ai/ecommerce-growth-services?co-from=github)
+**Custom e-commerce growth consulting and implementation**
+
+**What it does:** End-to-end e-commerce growth services from strategy to execution
+
+- **Market Entry Strategy:** Custom market analysis and competitive positioning
+- **Product Portfolio Optimization:** Data-driven product selection and lifecycle management  
+- **Growth Implementation:** Hands-on execution of marketing and optimization strategies
+- **Performance Analytics:** Custom reporting and KPI tracking systems
+- **Team Training:** E-commerce education and skill development for internal teams
+
+**Pricing:** Custom pricing based on scope | **Best for:** Businesses seeking comprehensive growth solutions | **Pros:** Expert implementation, custom strategies, proven results | **Cons:** Higher investment, requires long-term commitment
+
+**When to Consider:**
+- Revenue goals >$1M annually
+- Need expert strategy development
+- Require hands-on implementation support
+- Want custom analytics and reporting
+- Building internal e-commerce capabilities
 
 ---
 
