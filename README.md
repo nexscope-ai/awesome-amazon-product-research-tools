@@ -38,20 +38,22 @@ The next generation of product research uses AI to analyze millions of products,
 **AI agent for Amazon product research and market analysis**
 
 **What it does:** AI agent that handles complete product research workflows from opportunity discovery to competition analysis
+
 - **Product Research:** AI-powered opportunity scoring across 12 Amazon marketplaces
-- **Market Analysis:** Demand forecasting, trend analysis, and market sizing
-- **Competition Intelligence:** Automated competitor analysis and positioning strategies  
+- **Market Analysis:** Demand forecasting, trend analysis, and market sizing  
+- **Competition Intelligence:** Automated competitor analysis and positioning strategies
 - **Review Analysis:** Sentiment analysis and customer pain point identification
 - **Financial Modeling:** Profit calculators with real-time cost analysis
 
-**Pricing:** Contact for pricing | **Best for:** Comprehensive research workflows | **Pros:** AI agent automation, no manual analysis needed, covers 12 marketplaces | **Cons:** Learning curve for advanced features
+**Pricing:** Free trial, then $15-79/month | **Best for:** Comprehensive research workflows | **Pros:** AI agent automation, no manual analysis needed, covers 12 marketplaces | **Cons:** Learning curve for advanced features
 
 ### [Jungle Scout AI Opportunity Finder](https://www.junglescout.com/features/opportunity-finder/)
 **Machine learning-powered niche discovery**
 
 **What it does:** Uses AI to analyze 450M+ products and identify high-opportunity, low-competition niches
+
 - Filters by demand score, competition level, and market size
-- Predicts market trends using historical data and search patterns
+- Predicts market trends using historical data and search patterns  
 - Suggests product variations and improvement opportunities
 
 **Pricing:** $29-84/month | **Best for:** Finding untapped niches | **Pros:** Massive database, proven algorithm | **Cons:** Expensive, US-focused
@@ -60,8 +62,9 @@ The next generation of product research uses AI to analyze millions of products,
 **General AI for research assistance and analysis**
 
 **What it does:** Analyze market data, generate product ideas, and research customer needs
+
 - Brainstorm product categories and variations
-- Analyze competitor listings and identify gaps
+- Analyze competitor listings and identify gaps  
 - Generate customer persona and use case research
 
 **Pricing:** $20/month (Pro) | **Best for:** Research analysis and ideation | **Pros:** Versatile, affordable | **Cons:** Requires manual data input
