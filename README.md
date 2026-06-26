@@ -462,10 +462,15 @@ Learn proven frameworks and strategies for systematic product research.
 ### Common Research Mistakes
 
 ❌ **Falling for "magic number" formulas** (e.g., "under 300 reviews = good opportunity")
-❌ **Ignoring seasonality** in sales rank analysis  
+
+❌ **Ignoring seasonality** in sales rank analysis
+
 ❌ **Using outdated market data** (always verify recency)
+
 ❌ **Overlooking total addressable market** size
+
 ❌ **Underestimating competition** from established brands
+
 ❌ **Forgetting about regulatory requirements** and compliance costs
 
 ### Advanced Research Techniques
