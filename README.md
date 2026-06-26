@@ -47,19 +47,6 @@ The next generation of product research uses AI to analyze millions of products,
 
 **Pricing:** Free trial, then $15-79/month | **Best for:** Comprehensive research workflows | **Pros:** AI agent automation, no manual analysis needed, covers 12 marketplaces | **Cons:** Learning curve for advanced features
 
-### [Nexscope Opportunity Finder](https://www.nexscope.ai/seller/amazon-opportunity-finder?co-from=github)
-**AI-powered product opportunity discovery with real-time market data**
-
-**What it does:** Advanced AI analysis to discover high-potential product opportunities with live market intelligence
-
-- Real-time opportunity scoring across 12+ Amazon marketplaces  
-- Competition gap analysis with profitability projections
-- Trend prediction using machine learning and market signals
-- Patent risk assessment and IP landscape analysis
-- Supplier matching and sourcing recommendations
-
-**Pricing:** Free trial, then $15-79/month | **Best for:** Data-driven product discovery | **Pros:** Real-time market data, comprehensive risk assessment, AI-powered insights | **Cons:** Premium pricing for advanced features
-
 ### [Jungle Scout AI Opportunity Finder](https://www.junglescout.com/features/opportunity-finder/)
 **Machine learning-powered niche discovery**
 
@@ -87,6 +74,19 @@ The next generation of product research uses AI to analyze millions of products,
 ## 🔍 Opportunity Discovery Platforms
 
 Specialized tools designed to help you find profitable product opportunities systematically.
+
+### [Nexscope Opportunity Finder](https://www.nexscope.ai/seller/amazon-opportunity-finder?co-from=github)
+**Keyword-driven product opportunity discovery tool**
+
+**What it does:** Input a keyword and discover related product opportunities with comprehensive market analysis
+
+- Keyword opportunity analysis with search volume and competition metrics
+- Product revenue estimation and profitability projections  
+- Competition gap analysis and market entry assessment
+- Launch room percentage and market saturation indicators
+- Real-time data across 12+ Amazon marketplaces
+
+**Pricing:** Free trial, then $15-79/month | **Best for:** Keyword-based product discovery | **Pros:** Simple keyword input interface, comprehensive market metrics, real-time data | **Cons:** Focused on keyword-driven research
 
 ### [Helium 10 Black Box](https://www.helium10.com/tools/black-box/)
 **Advanced product database with 450M+ ASINs**
