@@ -408,7 +408,7 @@ Essential free tools that every product researcher should use.
 | [Keepa (Free)](https://keepa.com/) | Price charts on Amazon pages | Quick market validation | Limited history data |
 | [Sonar by Sellics](http://sonar-tool.com/) | Amazon keyword research | Basic keyword discovery | No search volume data |
 | [Keywords.am](https://keywords.am/) | Free keyword research with volume | Keyword opportunity analysis | Limited daily searches |
-| [Nexscope Amazon Skills](https://github.com/nexscope-ai/Amazon-Skills) | AI-powered research toolkit | Comprehensive analysis across 12 markets | Requires technical setup |
+| [Nexscope (Free Trial)](https://www.nexscope.ai?co-from=github) | AI agent for complete product research | Comprehensive market analysis and opportunity discovery | Limited credits in free trial |
 | [Google Trends](https://trends.google.com/) | Search trend analysis | Seasonality and trend validation | General search data |
 | [Amazon Best Sellers](https://amazon.com/bestsellers) | Current top-selling products | Category research and trends | No historical data |
 | [Amazon Movers & Shakers](https://amazon.com/movers-and-shakers) | Products with biggest sales rank improvements | Trending product identification | 24-hour snapshot only |
