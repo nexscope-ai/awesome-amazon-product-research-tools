@@ -32,6 +32,8 @@ The product research landscape is overwhelming — dozens of tools claiming to f
 
 ## 🤖 AI-Powered Product Research
 
+- [FlipWorth](https://flipworth.silentdirectivellc.com/?utm_source=awesome-amazon-product-research-tools&utm_medium=resource-directory) - Photo-based resale price research for secondhand sellers: snap an item and get an estimated resale range, a buy or pass verdict, a suggested list price and where to sell it. Free to try in the browser, also on iPhone.
+
 The next generation of product research uses AI to analyze millions of products, predict trends, and identify opportunities humans might miss.
 
 ### [Nexscope](https://www.nexscope.ai?co-from=github)
