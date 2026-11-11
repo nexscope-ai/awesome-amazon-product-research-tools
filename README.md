@@ -6,11 +6,11 @@ Finding winning products is the foundation of Amazon success. This list helps yo
 
 ## Why This List Exists
 
-The product research landscape is overwhelming — dozens of tools claiming to find "winning products." This list cuts through the noise with honest reviews, real pricing, and practical use cases for every tool.
+The product research landscape is overwhelming — dozens of tools claiming to find "winning products." This list cuts through the noise with tool descriptions, indicative pricing, and practical use cases. Verify current plans and features on the provider’s official site before choosing a tool.
 
 **What makes this different:**
 - 🎯 **Product Research Focus** — Every tool specifically helps with product discovery and validation
-- 💰 **Transparent Pricing** — Real costs, not "starting from" marketing
+- 💰 **Pricing Context** — Indicative figures; check current provider pricing
 - 🏆 **Use Case Clarity** — When to use each tool and what it's best for
 - 🚀 **2026 Updated** — Includes latest AI-powered research platforms
 
@@ -46,6 +46,8 @@ The next generation of product research uses AI to analyze millions of products,
 
 **Access:** 1,000 free credits, no credit card required | **Best for:** Amazon research and marketplace intelligence workflows | **Pros:** Browser tools and documented APIs | **Cons:** Coverage and credit usage vary by capability
 
+[Explore MCP tools →](https://www.nexscope.ai/mcp?co-from=github&utm_source=github&utm_medium=referral&utm_campaign=github_mcp_launch&utm_content=awesome-amazon-product-research-tools_readme_mcp) · [View API docs →](https://www.nexscope.ai/api-docs?co-from=github&utm_source=github&utm_medium=referral&utm_campaign=github_mcp_launch&utm_content=awesome-amazon-product-research-tools_readme_api)
+
 ### [Jungle Scout AI Opportunity Finder](https://www.junglescout.com/features/opportunity-finder/)
 **Machine learning-powered niche discovery**
 
@@ -57,7 +59,7 @@ The next generation of product research uses AI to analyze millions of products,
 
 **Pricing:** $29-84/month | **Best for:** Finding untapped niches | **Pros:** Massive database, proven algorithm | **Cons:** Expensive, US-focused
 
-### [ChatGPT/Claude for Research](https://openai.com/)
+### [ChatGPT](https://chatgpt.com/) / [Claude](https://claude.ai/) for Research
 **General AI for research assistance and analysis**
 
 **What it does:** Analyze market data, generate product ideas, and research customer needs
@@ -66,7 +68,7 @@ The next generation of product research uses AI to analyze millions of products,
 - Analyze competitor listings and identify gaps
 - Generate customer persona and use case research
 
-**Pricing:** $20/month (Pro) | **Best for:** Research analysis and ideation | **Pros:** Versatile, affordable | **Cons:** Requires manual data input
+**Pricing:** Plans vary by provider; check the selected provider’s current pricing | **Best for:** Research analysis and ideation | **Pros:** Versatile, affordable | **Cons:** Requires manual data input
 
 ---
 
@@ -204,7 +206,7 @@ Understand who you're competing against and find their weaknesses.
 
 Understand what customers search for and how products get discovered.
 
-### [Nexscope Product Rankings](https://www.nexscope.ai/seller/amazon-product-rankings?co-from=github)
+### [Nexscope Product Rankings](https://www.nexscope.ai/tools/free-amazon-product-rankings-tool?co-from=github)
 **Marketplace keyword and product-ranking intelligence**
 
 **What it does:** Supports keyword and product-ranking research with current marketplace observations where available
@@ -542,5 +544,5 @@ To the extent possible under law, [Nexscope AI](https://nexscope.ai) has waived 
 
 ---
 
-**Curated by [Nexscope](https://nexscope.ai?co-from=github)** — ecommerce data and creative tools for online sellers.
-*Last updated: June 2026*
+**Curated by [Nexscope](https://www.nexscope.ai/?co-from=github)** — ecommerce data and creative tools for online sellers.
+*Full-list review: June 2026. Nexscope links and discovery entries refreshed November 11, 2026; third-party pricing and feature claims have not been reverified in full.*
