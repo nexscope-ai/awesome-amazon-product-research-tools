@@ -65,6 +65,12 @@ Discover product niches using keyword demand, competition, and historical trends
 
 **Pricing:** Check current provider plans | **Best for:** Research analysis and ideation | **Pros:** Versatile, affordable | **Cons:** Requires manual data input
 
+### [Nolyn](https://www.nolyn.ai/)
+
+Always-on growth team for brands and agencies. Tracks creators, campaigns and competitors, and researches products and pricing, returning sourced reports from live marketplace and social data.
+
+**Access and pricing (checked 27 November 2026 on https://www.nolyn.ai/pricing):** Free plan with 100 one-time credits and no credit card. Paid plans: Plus $19, Pro $49 and Scale $199 per month; paid credits expire monthly. Coverage varies by source and usage is credit-based.
+
 ---
 
 ## 🔍 Opportunity Discovery Platforms
